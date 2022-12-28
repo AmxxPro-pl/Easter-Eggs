@@ -1,6 +1,6 @@
 # Easter Eggs
 
-<b> Plugin idealny na Wielkanoc, można go ciekawie wykorzystać np. w sklepie lub w konkursie
+<b> Plugin idealny na Wielkanoc, można go ciekawie wykorzystać np. w sklepie lub w konkursie (plugin opisany jest w sposób podstawowy, aby uzyskać dokładniejszy obraz pluginu można go przetestować - zgłoś się do właściciela na discordzie)
 
 ## Compatibility
 - 1.8.3-dev+5142
